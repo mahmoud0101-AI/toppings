@@ -44,5 +44,16 @@ body {
 @media (max-width: 768px) {
   .movies1 {
     display: flex;
+    flex-direction:colomun;
+    margin:7px;
+    padding:7px;
   }
+.bond{
+  display: flex;
+    flex-direction:colomun;
+  margin:7px;
+  padding:7px;
 }
+
+}
+
